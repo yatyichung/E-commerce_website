@@ -1,7 +1,7 @@
 # Ecommerce_website
 
 <h2>A responsive e-commerce website built using Node.js with Express and Pug.</h2>
-Image reference: https://unsplash.com/ 
+Images reference: https://unsplash.com/ 
 
 <img src="https://user-images.githubusercontent.com/78622789/169916412-b1ab3da0-bd8c-4d48-81ca-51b067ca282f.jpg" width="400px">
 
